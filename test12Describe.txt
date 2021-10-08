@@ -1,0 +1,239 @@
+ +  Context 
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+
+ + [34m[Int][39m DividendPayingTokenInterface 
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+
+ + [34m[Int][39m DividendPayingTokenOptionalInterface 
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+
+ + [34m[Int][39m IERC20 
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+
+ + [34m[Int][39m IERC20Metadata [90m(IERC20)[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+
+ + [33m[Lib][39m IterableMapping 
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+
+ +  ERC20 [90m(Context, IERC20, IERC20Metadata)[39m
+    - [32m[Pub][39m [90m<Constructor>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+
+ + [34m[Int][39m IUniswapV2Factory 
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+
+ + [34m[Int][39m IUniswapV2Pair 
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+
+ + [34m[Int][39m IUniswapV2Router01 
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[33m ($)[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[33m ($)[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[33m ($)[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+
+ + [34m[Int][39m IUniswapV2Router02 [90m(IUniswapV2Router01)[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[33m ($)[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+
+ +  Ownable [90m(Context)[39m
+    - [32m[Pub][39m [90m<Constructor>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+
+ + [33m[Lib][39m SafeMath 
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+
+ + [33m[Lib][39m SafeMathInt 
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m
+
+ + [33m[Lib][39m SafeMathUint 
+    - [90m[Int][39m [90m<Fallback>[39m
+
+ +  DividendPayingToken [90m(ERC20, Ownable, DividendPayingTokenInterface, DividendPayingTokenOptionalInterface)[39m
+    - [32m[Pub][39m [90m<Constructor>[39m[31m #[39m
+       - modifiers: ERC20
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+
+ +  TESTDividendTracker [90m(Ownable, DividendPayingToken)[39m
+    - [32m[Pub][39m [90m<Constructor>[39m[31m #[39m
+       - modifiers: DividendPayingToken
+    - [90m[Int][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [31m[Prv][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+
+ +  TESTToken [90m(ERC20, Ownable)[39m
+    - [32m[Pub][39m [90m<Constructor>[39m[31m #[39m
+       - modifiers: ERC20
+    - [34m[Ext][39m [90m<Fallback>[39m[33m ($)[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [31m[Prv][39m [90m<Fallback>[39m[31m #[39m
+    - [32m[Pub][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [32m[Pub][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+       - modifiers: onlyOwner
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m[31m #[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [34m[Ext][39m [90m<Fallback>[39m
+    - [90m[Int][39m [90m<Fallback>[39m[31m #[39m
+    - [31m[Prv][39m [90m<Fallback>[39m[31m #[39m
+    - [31m[Prv][39m [90m<Fallback>[39m[31m #[39m
+    - [31m[Prv][39m [90m<Fallback>[39m[31m #[39m
+    - [31m[Prv][39m [90m<Fallback>[39m[31m #[39m
+    - [31m[Prv][39m [90m<Fallback>[39m[31m #[39m
+    - [31m[Prv][39m [90m<Fallback>[39m[31m #[39m
+
+
+[33m ($)[39m = payable function
+[31m #[39m = non-constant function
+  
